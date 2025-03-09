@@ -1,4 +1,4 @@
-# flutter_expense_manager_dapp
+# Expense_Tracker Using Blockchain and Flutter
 
 A Flutter-based Decentralized Application (DApp) for managing expenses using blockchain technology.
 
@@ -7,6 +7,17 @@ A Flutter-based Decentralized Application (DApp) for managing expenses using blo
 This project is a **Flutter-based expense manager** that uses **Ethereum blockchain** to securely store and manage expense records. The app allows users to add and view expenses with transparency and immutability, ensuring that all data is stored on the blockchain through **Smart Contracts**.
 
 This application leverages **Flutter** for the front-end, **Ganache** for the local Ethereum blockchain, and **Solidity** for writing the smart contract.
+![Screenshot 2025-03-09 225453](https://github.com/user-attachments/assets/0eab7a82-ad1e-4eb3-8268-61eb6394cdee)
+  ![image](https://github.com/user-attachments/assets/f02cf0ec-f43e-4b87-a4ea-f771c430a14b)
+  ![image](https://github.com/user-attachments/assets/5ecefb2e-4c1f-4b42-bbcf-78818252d3e2)
+
+
+
+##Project Structure
+![Screenshot 2025-03-09 225814](https://github.com/user-attachments/assets/b25cecdb-9f89-42e2-95f1-a83cdbcd40be)
+
+
+
 
 ## Technologies Used
 
